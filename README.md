@@ -1,6 +1,6 @@
-# dAGI Hackathon
+# Near Protocol
 
-This repo aims to experiment NEAR protocol smart contracts and AI agents for hackathon purposes.
+This repo aims to experiment NEAR protocol smart contracts and AI agents.
 
 ## Near Protocol Smart Contract
 
